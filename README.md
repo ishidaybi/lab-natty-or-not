@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fundos de Investimento imobniliário ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um vídeos ensinando o que são FII e como investir.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, VidNoz Ai e Pixai.Art
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi ao Chat GPT criar o roteiro com sugestões de imagens, Pedi ao pixai para gerar as imagens e gerei o video no vidnoz (a transição de imagens, não funcionou)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+
+
+https://github.com/ishidaybi/lab-natty-or-not/assets/130613838/3d12f035-d402-40eb-9d0c-b8b391097bd6
+
 
 ### Exemplos e Insigths
 
